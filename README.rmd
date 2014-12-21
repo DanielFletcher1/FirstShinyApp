@@ -1,0 +1,10 @@
+---
+title: "README for my Shiny App"
+author: "Daniel Fletcher"
+date: "Saturday, December 20, 2014"
+output: html_document
+---
+
+*Background on my Shiny app:*  My app is derived from the `Iris` dataset and pulls simple data points from the Sepal.Width variable:  min, max, median, and mean
+
+*How to use my Shiny app:*  Hopefully, the app is relatively straightforward.  For whichever calculated result you want to see (min, max, median, or mean), click on the corresponding check box and the result will display in the right side panel.
